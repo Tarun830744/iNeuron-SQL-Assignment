@@ -1,0 +1,1 @@
+Select distinct department from worker;
